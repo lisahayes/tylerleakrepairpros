@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tylerleakrepairpros.com/sitemap.xml
